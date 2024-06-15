@@ -1,0 +1,335 @@
+.header{
+  display: flex;
+}
+
+.lin-1{
+  font-size: 32px;
+  color: black;
+  padding-left: 550px;
+  padding-top: 30px;
+}
+
+.main{
+  margin-left: 80px;
+  margin-top: 30px;
+}
+.main1{
+  font-size: 42px;
+  color: #fafafa;
+}
+.main2{
+  font-size: 32px;
+  color: #fafafa;
+  padding-top: 30px;
+}
+
+
+ .about{
+  text-align: center;
+  }
+.h1{
+ color :#006e54;
+ font-size: 24px;
+ font-weight: bold;
+ padding-bottom: 30px;
+padding-top: 60px;
+}
+.ab1{
+padding-bottom: 60px;
+font-size: 18px;
+}
+.ab2{
+  padding-bottom: 15px;
+}
+.ab3{
+padding-bottom: 40px;
+}
+
+.ab4{
+  padding-bottom: 40px;
+}
+
+.ab5{
+  padding-bottom: 80px;
+}
+
+.co{
+  text-align: center;
+}
+
+.h2{
+  color :black;
+  font-size: 24px;
+  font-weight: bold; 
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+.co-text{
+padding-bottom: 60px; 
+}
+
+
+.co1{
+  display: flex;
+  justify-content: center;
+  background-color: #fafafa;
+}
+.co-img1{
+  width: 684px;
+  height: 457px;
+}
+.co1-text{
+  padding-top: 120px;
+  padding-bottom: 120px;
+  padding-right: 100px;
+  vertical-align: middle;
+  width: 100;
+}
+.co1p{
+  line-height:30px
+}
+.co-img2{
+  width: 684px;
+  height: 457px;
+}
+.h3{
+  padding-bottom: 40px;
+  color :black;
+  font-size: 24px;
+  font-weight: bold; 
+}
+
+
+.co2{
+  display: flex;
+  justify-content: center;
+  background-color: #fafafa;
+}
+.co2-text{
+  margin-left: 50px;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  padding-right: 100px;
+  vertical-align: middle;
+  width: 100;
+}
+.co2p{
+  line-height:30px
+}
+.h4{
+  padding-bottom: 40px;
+  color :black;
+  font-size: 24px;
+  font-weight: bold; 
+}
+
+
+.co3{
+  display: flex;
+  background-color: #fafafa;
+}
+.co3-text{
+  margin-left: 50px;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  padding-right: 100px;
+  vertical-align: middle;
+  width: 100;
+}
+.co3p{
+  line-height:30px
+}
+.co-img3{
+  width: 684px;
+  height: 457px;
+}
+.h5{
+  padding-bottom: 40px;
+  color :black;
+  font-size: 24px;
+  font-weight: bold; 
+}
+
+.h6{
+  color :#006e54;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.news{
+  text-align: center;
+  padding-top: 60px;
+}
+.ne-imag{
+  width: 320px;
+  height: 200px;
+}
+
+.h6{
+  padding-bottom: 30px;
+}
+.h6p{
+  padding-bottom: 60px;
+}
+
+.news1{
+  display: flex;
+margin-left: 200px;
+}
+
+.ne :hover{
+  opacity: 0.5;
+  color: #ffd61a
+}
+.bu1{
+  width: 300px;
+  height: 60px;
+  background-color: #006e54;
+  font-size: 18px;
+  color: #fafafa;
+  border: none;
+  display: block;
+  margin: 0 auto; /* 左右の余白を自動で設定して中央揃え */
+  text-align: center; /* テキストを中央揃え */
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.ac{
+  background-color: #fafafa;
+  text-align: center;
+  padding: 60px;
+}
+
+.h7{
+  color :black;
+  font-size: 24px;
+  font-weight: bold;
+  
+}
+.ac-text{
+  padding-top: 30px;
+  margin-bottom: 60px;
+}
+
+.info-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.info-list li {
+  margin-bottom: 10px;
+}
+
+.info-list li strong {
+  display: inline-block;
+  width: 150px; /* キー情報の幅 */
+  
+}
+
+.con{
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #fafafa;
+  display: flex;
+  justify-content: center 
+}
+
+.li1{
+  padding-bottom: 30px;
+  margin-bottom: 60px;
+}
+
+.h8{
+  color :black;
+  font-size: 24px;
+  font-weight: bold;
+margin-bottom: 30px;
+}
+
+.contact{
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 70px;
+}
+
+.con1-text{
+  padding-top: 30px;
+  padding-bottom: 60px;
+}
+
+.con2-text{
+  padding-bottom: 30px;
+}
+.con3-text{
+  text-align: center;
+}
+
+.form-table {
+  margin: 0 auto;
+  width: 50%; /* 表の幅を調整 */
+}
+
+.form-table table {
+  width: 100%;
+  border: 1px solid #000; /* 表全体の境界線 */
+}
+
+.form-table table td {
+  padding: 8px;
+  vertical-align: top;
+  border: 1px solid gray /* 各セルの境界線 */
+}
+
+.form-table table label {
+  font-weight: bold;
+}
+
+.form-table table ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.form-table table li {
+  margin-bottom: 5px;
+}
+
+.bu2{
+  width: 300px;
+  height: 60px;
+  background-color: #006e54;
+  font-size: 18px;
+  color: #fafafa;
+  border: none;
+  display: block;
+  margin: 0 auto; /* 左右の余白を自動で設定して中央揃え */
+  text-align: center; /* テキストを中央揃え */
+  margin-top: 30px;
+  margin-bottom: 140px;
+}
+
+.copy{
+  color: #fafafa;
+  background-color: #707070;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
+.de{
+  height: 60px;
+}
+
+.de-box{
+  width: 600px;
+  height: 60px;
+}
+
+.body{
+  height: 100%;
+  width: 100%;
+}
+.ab-img{
+  width: 1540px;
+  height: 255px;
+}
